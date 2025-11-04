@@ -1,6 +1,6 @@
 # CAML.CC
 
-CAML.CC builds privacy-oriented, self-hosted software.
+An open-source collective building privacy oriented, self-hosted software.
 
 ## Projects
 - [gi](https://gi.caml.cc): gitignore generator
