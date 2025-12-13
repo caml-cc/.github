@@ -1,10 +1,12 @@
 # CAML.CC
 
-An open-source collective building privacy oriented, self-hosted software.
+مشاريع مفتوحة المصدر من ركن صغير في الإنترنت.
 
-## Projects
-- [gi](https://github.com/caml-cc/gi): gitignore generator http server
-- [cc-gi](https://github.com/caml-cc/cc-gi): gitignore generator cli tool
+## المشاريع
+- [gi](https://github.com/caml-cc/gi): خادم صانع ملفات التجاهل
+- [cc-gi](https://github.com/caml-cc/cc-gi): اداة لصناعة ملفات التجاهل بإستخدام سطر الاوامر
 
-## Licenses
+## رخص الاستخدام
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[EN](README-en.md)
