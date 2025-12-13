@@ -1,6 +1,6 @@
 # CAML.CC
 
-An open-source collective building privacy oriented, self-hosted software.
+Open-source projects from a small corner of the internet.
 
 ## Projects
 - [gi](https://github.com/caml-cc/gi): gitignore generator http server
