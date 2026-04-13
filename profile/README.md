@@ -1,12 +1,10 @@
 # CAML.CC
 
-مشاريع مفتوحة المصدر من ركن صغير في الإنترنت.
+Open-source projects from a small corner of the internet.
 
-## المشاريع
-- [gi](https://github.com/caml-cc/gi): خادم صانع ملفات التجاهل
-- [cc-gi](https://github.com/caml-cc/cc-gi): اداة لصناعة ملفات التجاهل بإستخدام سطر الاوامر
+## Projects
+- [gi](https://github.com/caml-cc/gi): gitignore generator http server
+- [cc-gi](https://github.com/caml-cc/cc-gi): gitignore generator cli tool
 
-## رخص الاستخدام
+## Licenses
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[EN](README-en.md)
