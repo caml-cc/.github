@@ -3,7 +3,7 @@
 Open-source projects from a small corner of the internet.
 
 ## Projects
-- [gi](https://github.com/caml-cc/gi): gitignore generator http server
+- [cc-gi-server](https://github.com/caml-cc/gi): gitignore generator http server
 - [cc-gi](https://github.com/caml-cc/cc-gi): gitignore generator cli tool
 
 ## Licenses
